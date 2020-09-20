@@ -1,0 +1,4 @@
+EnemyMeshSight: tầm nhìn của quái, quái chỉ đi được bên trong này
+CreepGreen: con creep màu xanh, tag: Creep
+Package sử dụng: pathfinding.unitypackage, AI cho quái, 
+
